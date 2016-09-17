@@ -1,5 +1,5 @@
-impress.js
-============
+impress.js - Monotone Presentation
+==================================
 
 [![CircleCI](https://circleci.com/gh/impress/impress.js.svg?style=svg)](https://circleci.com/gh/impress/impress.js)
 
